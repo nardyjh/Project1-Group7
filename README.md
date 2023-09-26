@@ -15,4 +15,3 @@ APIs
 https://nik-davis.github.io/posts/2019/steam-data-collection/
 
 https://wiki.teamfortress.com/wiki/User:RJackson/StorefrontAPI
-![image](https://github.com/nardyjh/Project1-Group7/assets/140761572/24118a11-aa9c-4542-aad0-f17965e9a82b)
