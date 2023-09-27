@@ -1,3 +1,10 @@
+For next time: Think of 2 questions/visualizations each
+Jorge		A
+Jude		B
+Muhammad	C (with some B)
+Kamal		D (with some B)
+
+
 (A) - GAME (PRE-PLAY) ANALYSIS
 
 	(1) Which platform (Windows, Linux, Mac) has the highest player base on average? Are there any platform-specific trends?
