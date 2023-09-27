@@ -16,7 +16,7 @@
 	-- Demos
 
 
-(B) - GAME (DURING PLAY) ANALYSIS
+(B) - GAME (DURING PLAY) ANALYSIS -- Popularity, Rating (maybe price)
 
 	(1) Genre
 	(a) What are the genres or combination of genres that the studio should invest in?
@@ -30,9 +30,6 @@
 	(d) What are the predictions for the next trends of genres or combinations of genres?
 	Regression: -- Years vs. Genres - Count of Games
 
-	(2) Single/Multi player (under genre) -- group by single vs. multi
-	barchart - game type vs.. all the above
-	
 	(3) Language
 	TBD -- pending datasets
 
@@ -47,8 +44,11 @@
 	(2) Is there a seasonal pattern in game sales or player counts? Do certain genres perform better during specific seasons or holidays?
 	Linechart - Months(and maybe years) vs. #ofOwners
 
+	(3) Single/Multi player (under genre) -- group by single vs. multi
+	barchart - game type vs.. all the above
 
-(D) - GAME LIFESPAN ANALYSIS
+
+(D) - GAME LIFESPAN ANALYSIS -- Number of players / Number of Owners * price
 
 	(1) Investigate the relationship between the age of a game and its current player base. Do older games still attract players, or is there a decline over time?
 	Linechart - Release year Vs. #OfPlayers (divide by DLC)
