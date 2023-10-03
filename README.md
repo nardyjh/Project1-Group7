@@ -11,7 +11,7 @@ Some datapoint to analyze include marketing factors (the effectiveness of game d
 
 DataSets
 
-https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games
+https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games<br>
 https://data.world/craigkelly/steam-game-data
 
 [1] https://www.weforum.org/agenda/2022/07/gaming-pandemic-lockdowns-pwc-growth/
