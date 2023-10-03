@@ -2,7 +2,7 @@
 
 Project Summary:
 
-The gaming industry has been rapidly growing in size in the past decade, as technology advances exponentialy, and boosted by the pandemic lockdowns. According to a report by the World Economic Forum [1], the global gaming industry revenues are expected to exceed $320 billion by 2026. With the high number of competitors and increasing number of ways to game (offline/online, different platforms), studios need reliable information and data on which they can base their future plans and strategic decisions. 
+The gaming industry has been rapidly growing in size in the past decade, as technology advances exponentialy, and boosted by the pandemic lockdowns. According to a report by a PwC report [1], the global gaming industry revenues are expected to exceed $320 billion by 2026. With the high number of competitors and increasing number of ways to game (offline/online, different platforms), studios need reliable information and data on which they can base their future plans and strategic decisions. 
 
 The goal of this project is to provide concrete data and analysis that help game studios make informed decisions and navigate the dynamic gaming landscape effectively. The project involves analyzing video game datasets from Steam and IMDB and visualizing different aspects.
 
