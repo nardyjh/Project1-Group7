@@ -92,8 +92,11 @@ This project is licensed under the MIT License.
 
 ## Authors
 Jorge Nardy
+
 Kamal Farran
+
 Muhammad Kashif 
+
 Jude Silva
 
 ## References
