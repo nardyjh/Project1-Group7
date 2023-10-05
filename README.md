@@ -45,6 +45,15 @@ Some datapoints to analyze include marketing factors (the effectiveness of game 
 - Games available on the Windows & Mac combination seem to have higher Metacritic ratings and recommendation counts, indicating a positive reception among users and critics.
 - The combination of all three platforms (Windows, Mac, and Linux) results in the highest mean recommendation count, suggesting that cross-platform availability may lead to increased user engagement and recommendations.
 
+### (5) Is there any advantage to developing a Single-Player or a multi-player game?
+- Analysis of games based on whether they are single-player or multi-player games, shows a significant advantage for multi-player games in terms of mean number of players, mean number of owners, mean Metacritic rating and mean number of recommendations on Steam.
+- This suggests that multi-player games tend to be more popular and successful.
+
+### (6) Are there any apparent genre trends across the past 3 decades?
+
+- Analysis of the percentage of genres between 1985 and 2019, shows that while action has been the dominant genre for decades, Adventue has been steadily rising in prominence, surpassing Action after 2015.
+- Also observed, is that the percentages of Family and Sci-Fi games have been decreasing, while other genre have kept relatively steady levels. It is to be noted, that this does not reflect a decrease in the number of Family or Sci-Fi games, only of their percentages relative to the total number of games per year. In fact, the number of games have been increasing per year across all genres.
+
 ## Analysis Summary 
 In summary, the analysis covers platform player counts, game support, the impact of screenshots, early access, and demos on player numbers, and the relationship between platform game counts and other metrics.
 
