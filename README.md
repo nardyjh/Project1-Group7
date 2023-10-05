@@ -53,8 +53,8 @@ Some data points to analyze include marketing factors (such as the effectiveness
 - This suggests that multi-player games tend to be more popular and successful.
 
 ### 6. Are there any apparent genre trends across the past 3 decades?
-- Analysis of the percentage of genres between 1985 and 2019, shows that while action has been the dominant genre for decades, Adventue has been steadily rising in prominence, surpassing Action after 2015.
-- Also observed, is that the percentages of Family and Sci-Fi games have been decreasing, while other genre have kept relatively steady levels. It is to be noted, that this does not reflect a decrease in the number of Family or Sci-Fi games, only of their percentages relative to the total number of games per year. In fact, the number of games have been increasing per year across all genres.
+- Analysis of the percentage of genres between 1985 and 2019, shows that while Action has been the dominant genre for decades, Adventure has been steadily rising in prominence, surpassing Action after 2015.
+- Also observed, is that the percentages of Family and Sci-Fi games have been decreasing, while other genres have kept relatively steady levels. It is to be noted, that this does not reflect a decrease in the number of Family or Sci-Fi games, only of their percentages relative to the total number of games per year. In fact, the number of games have been increasing per year across all genres.
 
 
 ## Analysis Summary 
