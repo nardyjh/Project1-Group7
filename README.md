@@ -15,7 +15,6 @@ The goal of this project is to provide concrete data and analysis to assist game
 - [How to Run](#how-to-run)
 - [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 - [Authors](#authors)
 - [References](#references)
 
@@ -86,9 +85,6 @@ Developing predictive models to forecast gaming trends and success factors.
 
 ## Acknowledgments
 We would like to acknowledge the contributors of the IMDB Video Games Dataset and Steam Game Data for providing valuable data for this analysis.
-
-## License
-This project is licensed under the MIT License. 
 
 ## Authors
 Jorge Nardy
