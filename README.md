@@ -77,7 +77,7 @@ Install the required dependencies (as mentioned in the "Dependencies" section).
 Run the Python scripts provided in the project directory to reproduce the analysis.
 
 ## Future Work
-In the future, we plan to expand this project by:
+In the future, there is potential to expand this project by:
 
 Conducting more in-depth analyses on specific aspects of the gaming industry.
 Incorporating additional datasets to gain a more comprehensive understanding of the market.
