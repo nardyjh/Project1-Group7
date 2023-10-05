@@ -68,6 +68,7 @@ This project uses Python libraries such as Pandas, and Matplotlib for data analy
 
 ```bash
 pip install pandas matplotlib
+```
 
 ## How to Run
 If you wish to run the analysis scripts in this project, follow these steps:
