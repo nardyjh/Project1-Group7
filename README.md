@@ -10,6 +10,7 @@ The goal of this project is to provide concrete data and analysis to assist game
 - [Data Exploration](#data-exploration)
   - [Platforms and Marketing Analysis](#platforms-and-marketing-analysis)
   - [Category and Trends Analysis](#category-and-trends-analysis)
+  - [Initial and Final Price Analysis](#initial-and-final-price-analysis)
 - [Data Sets](#data-sets)
 - [Dependencies](#dependencies)
 - [How to Run](#how-to-run)
@@ -54,6 +55,20 @@ The goal of this project is to provide concrete data and analysis to assist game
 - Analysis of the percentage of genres between 1985 and 2019 shows that while Action has been the dominant genre for decades, Adventure has been steadily rising in prominence, surpassing Action after 2015.
 - Also observed is that the percentages of Family and Sci-Fi games have been decreasing, while other genres have kept relatively steady levels. It is to be noted that this does not reflect a decrease in the number of Family or Sci-Fi games, only of their percentages relative to the total number of games per year. In fact, the number of games have been increasing per year across all genres.
 
+### Games Released Month and Price Analysis
+
+#### 7. Find out the Month with most number of Games Released?
+- From the provided data, it is found out that on steam gaming engine, 1548 games have been released in the month of "August". which could potentialy be due to some promotional season of "Back to School". 
+However since we do not have any sales data. so we can not exclusively point out towards the actual reason for more numbers of games being released in the Month of August.
+#### 8. Find the Games with positive increase in the intial and final price.
+- while trying to find the price change from initial price to final price change, there is not a single game with positive increase from inital price to final price in past three decades of provided Data.
+most games have no change in initial price and final price. Histogram shows skewed bars and mode is zero.
+### Top performer Games Analysis
+#### 9. Comparison of Top 20 game based on "Metacritic Rating" and "Recommendation count" of all times and Top 20 games based on "Action Genre" for "Metacritic Rating" and "Recommendation count".
+- from past three decades data, it is found that "Bioshock(tm),Half-life,Half-life2 and Grand theft Auto V" are top games based on the Metacritic Rating.
+Based on Recommendation count "counter strike-Global offense,Dota 2,Fortress 2, Garrys Mod are top 4 games.
+Only Grand Theft Auto V makes to Top 20 of recommendation count of all times list of provided data set.
+- Action Genre based MetacriticRating and RecommendationCount Top 20 games were found and compared with all times games which indicates "Action Based Genre is rated and and recommended by players. 
 ## Data Sets
 
 - [IMDB Video Games Dataset](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games)
