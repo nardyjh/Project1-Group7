@@ -10,7 +10,8 @@ The goal of this project is to provide concrete data and analysis to assist game
 - [Data Exploration](#data-exploration)
   - [Platforms and Marketing Analysis](#platforms-and-marketing-analysis)
   - [Category and Trends Analysis](#category-and-trends-analysis)
-  - [Initial and Final Price Analysis](#initial-and-final-price-analysis)
+  - [Games Released Month and Price Analysis](#Games-Released-Month-and-Price-Analysis)
+  - [Top performer Games Analysis](#Top-performer-Games-Analysis)
 - [Data Sets](#data-sets)
 - [Dependencies](#dependencies)
 - [How to Run](#how-to-run)
@@ -69,6 +70,8 @@ most games have no change in initial price and final price. Histogram shows skew
 Based on Recommendation count "counter strike-Global offense,Dota 2,Fortress 2, Garrys Mod are top 4 games.
 Only Grand Theft Auto V makes to Top 20 of recommendation count of all times list of provided data set.
 - Action Genre based MetacriticRating and RecommendationCount Top 20 games were found and compared with all times games which indicates "Action Based Genre is rated and and recommended by players. 
+From One sample t-test and Saphiro-wilk test, p_value was found. hypothesis results indicate that top-20 Games based on ratig are different for All times Top 20 games and Action Genre Based Top20 games. 
+Recommendation count based Top 20 Games for "All times and Action based Genre are same, which indicate the popularity of Action Genre games and their high recommendation counts.
 ## Data Sets
 
 - [IMDB Video Games Dataset](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games)
@@ -78,10 +81,15 @@ Only Grand Theft Auto V makes to Top 20 of recommendation count of all times lis
 
 ## Dependencies
 
-This project uses Python libraries such as Pandas, and Matplotlib for data analysis and visualization. You can install these libraries using pip:
+This project uses Python libraries such as Pandas, and Matplotlib for data analysis and visualization.
+Numpy for price change analysis and statistics for hypothesis testing.
+ You can install these libraries using pip:
 
 ```bash
 pip install pandas matplotlib
+pip install scipy 
+pip install numpy
+
 ```
 
 ## How to Run
