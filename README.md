@@ -70,8 +70,8 @@ most games have no change in initial price and final price. Histogram shows skew
 Based on Recommendation count "counter strike-Global offense,Dota 2,Fortress 2, Garrys Mod are top 4 games.
 Only Grand Theft Auto V makes to Top 20 of recommendation count of all times list of provided data set.
 - Action Genre based MetacriticRating and RecommendationCount Top 20 games were found and compared with all times games which indicates "Action Based Genre is rated and and recommended by players. 
-From One sample t-test and Saphiro-wilk test, p_value was found. hypothesis results indicate that top-20 Games based on ratig are different for All times Top 20 games and Action Genre Based Top20 games. 
-Recommendation count based Top 20 Games for "All times and Action based Genre are same, which indicate the popularity of Action Genre games and their high recommendation counts.
+From One sample t-test and Saphiro-wilk test, p_value was found. hypothesis results indicate that top-20 Games based on ratig are different for All times Top 20 games and Action Genre Based Top20 games and same applies for recommendation count based games. 
+Although action genre games are played most and in high demand on steam engine but still high metacritic games do not get high recommendation count.
 ## Data Sets
 
 - [IMDB Video Games Dataset](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games)
