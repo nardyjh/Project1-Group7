@@ -65,7 +65,9 @@ However since we do not have any sales data. so we can not exclusively point out
 - while trying to find the price change from initial price to final price change, there is not a single game with positive increase from inital price to final price in past three decades of provided Data.
 most games have no change in initial price and final price. Histogram shows skewed bars and mode is zero.
 ### Top performer Games Analysis
-#### 9. Comparison of Top 20 game based on "Metacritic Rating" and "Recommendation count" of all times and Top 20 games based on "Action Genre" for "Metacritic Rating" and "Recommendation count".
+#### 9(a). Number of action Genre games based on Metacritic rating and Recommendation.
+- more than 4000 Games in Action Genre Games did not get Meta critic Rating and Recommendation. Only one game was able to secure more than 150K Recommendation count while only 33 games 90-99 rating. Since the Top recommended and rated games have reduced in numbers. so it is good idea to follow the parameters of games in top notch for launching new game with popular in demand features.
+#### 9(b). Comparison of Top 20 game based on "Metacritic Rating" and "Recommendation count" of all times and Top 20 games based on "Action Genre" for "Metacritic Rating" and "Recommendation count".
 - from past three decades data, it is found that "Bioshock(tm),Half-life,Half-life2 and Grand theft Auto V" are top games based on the Metacritic Rating.
 Based on Recommendation count "counter strike-Global offense,Dota 2,Fortress 2, Garrys Mod are top 4 games.
 Only Grand Theft Auto V makes to Top 20 of recommendation count of all times list of provided data set.
