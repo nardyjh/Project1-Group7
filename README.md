@@ -74,6 +74,21 @@ Only Grand Theft Auto V makes to Top 20 of recommendation count of all times lis
 - Action Genre based MetacriticRating and RecommendationCount Top 20 games were found and compared with all times games which indicates "Action Based Genre is rated and and recommended by players. 
 From One sample t-test and Saphiro-wilk test, p_value was found. hypothesis results indicate that top-20 Games based on ratig are different for All times Top 20 games and Action Genre Based Top20 games and same applies for recommendation count based games. 
 Although action genre games are played most and in high demand on steam engine but still high metacritic games do not get high recommendation count.
+### Genre and popularity
+#### 10. Which genres do games prefer to play the most?
+-Analysis, shows that genres action, adventure and indie has beed recommended by the players most. We can also note the genres stertergy, RPG, Action, Racing and RPG have relatively high ratings from the critics
+- Worst recommended genres are sports, racing and casual and the worst critic rated genres are casual, early access and free to play
+- Looking at the data we can see action genre has overlap in best recomendations and crtics rating 
+- Looking at the data we can see casual genre has  overlap in worst recommendation and critic rating
+#### 10(b). Which genres do players choose to spend the most money ?
+-Analysis shows the genres action has the most capital. This genre has the most number of owners with the highest game prices. Followed by adventure and stratergy genre. Racing genre and sports genre has the least amount of capital in it 
+- Analysis shows genres with least capital are casual, sports, early access, free to play and racing 
+- Also these genres of games fall in both the catergory of worst rated and recommended
+#### 10(c). Which genres has the changes in demand and discounts ?
+-Genres with increase in demand. If the price is increase by the platform, we can assume the genre has a higher demand. Across all the genres we can see the mean price has reduced. But we can analyse by the rate of change 
+- We can see genres indie, nongame and adventure has the greatest negative mean price difference. They experience the greatest decline in demand over time and steam would most likely list these genres on discount 
+- We can see genres multiplayer, action, racing and sports has the least mean price difference. They hold the demand value over time and arent as subjected to discounting 
+
 ## Data Sets
 
 - [IMDB Video Games Dataset](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games)
