@@ -11,7 +11,9 @@ The goal of this project is to provide concrete data and analysis to assist game
   - [Platforms and Marketing Analysis](#platforms-and-marketing-analysis)
   - [Category and Trends Analysis](#category-and-trends-analysis)
   - [Games Released Month and Price Analysis](#Games-Released-Month-and-Price-Analysis)
-  - [Top performer Games Analysis](#Top-performer-Games-Analysis)
+  - [Top Performer Games Analysis](#Top-performer-Games-Analysis)
+  - [Genre and Popularity](#genre-and-popularity)
+  - [Results and Conclusions](#results-and-conclusions)
 - [Data Sets](#data-sets)
 - [Dependencies](#dependencies)
 - [How to Run](#how-to-run)
@@ -60,41 +62,50 @@ The goal of this project is to provide concrete data and analysis to assist game
 
 #### 7. Find out the Month with most number of Games Released?
 - From the provided data, it is found out that on steam gaming engine, 1548 games have been released in the month of "August". which could potentialy be due to some promotional season of "Back to School". 
-However since we do not have any sales data. so we can not exclusively point out towards the actual reason for more numbers of games being released in the Month of August.
+- However since we do not have any sales data, we can not exclusively point out towards the actual reason for more numbers of games being released in the Month of August.
+
 #### 8. Find the Games with positive increase in the intial and final price.
-- while trying to find the price change from initial price to final price change, there is not a single game with positive increase from inital price to final price in past three decades of provided Data.
-most games have no change in initial price and final price. Histogram shows skewed bars and mode is zero.
-### Top performer Games Analysis
-#### 9(a). Number of action Genre games based on Metacritic rating and Recommendation.
-- more than 4000 Games in Action Genre Games did not get Meta critic Rating and Recommendation. Only one game was able to secure more than 150K Recommendation count while only 33 games 90-99 rating. Since the Top recommended and rated games have reduced in numbers. so it is good idea to follow the parameters of games in top notch for launching new game with popular in demand features.
-#### 9(b). Comparison of Top 20 game based on "Metacritic Rating" and "Recommendation count" of all times and Top 20 games based on "Action Genre" for "Metacritic Rating" and "Recommendation count".
-- from past three decades data, it is found that "Bioshock(tm),Half-life,Half-life2 and Grand theft Auto V" are top games based on the Metacritic Rating.
-Based on Recommendation count "counter strike-Global offense,Dota 2,Fortress 2, Garrys Mod are top 4 games.
+- While trying to find the price change from initial price to final price change, there is not a single game with positive increase from inital price to final price in past three decades of provided Data.
+- Most games have no change in initial price and final price. Histogram shows skewed bars and mode is zero.
+
+### Top Performer Games Analysis
+
+#### 9. Number of action Genre games based on Metacritic rating and Recommendation.
+- More than 4000 Games in Action Genre Games did not get Meta critic Rating and Recommendation. Only one game was able to secure more than 150K Recommendation count while only 33 games 90-99 rating. Since the Top recommended and rated games have reduced in numbers. so it is good idea to follow the parameters of games in top notch for launching new game with popular in demand features.
+
+#### 9.1 Comparison of Top 20 game based on "Metacritic Rating" and "Recommendation count" of all times and Top 20 games based on "Action Genre" for "Metacritic Rating" and "Recommendation count".
+- From past three decades data, it is found that "Bioshock(tm),Half-life,Half-life2 and Grand theft Auto V" are top games based on the Metacritic Rating.
+- Based on Recommendation count "counter strike-Global offense,Dota 2,Fortress 2, Garrys Mod are top 4 games.
 Only Grand Theft Auto V makes to Top 20 of recommendation count of all times list of provided data set.
 - Action Genre based MetacriticRating and RecommendationCount Top 20 games were found and compared with all times games which indicates "Action Based Genre is rated and and recommended by players. 
 From One sample t-test and Saphiro-wilk test, p_value was found. hypothesis results indicate that top-20 Games based on ratig are different for All times Top 20 games and Action Genre Based Top20 games and same applies for recommendation count based games. 
-Although action genre games are played most and in high demand on steam engine but still high metacritic games do not get high recommendation count.
-### Genre and popularity
-#### 10. Which genres do games prefer to play the most?
--Analysis, shows that genres action, adventure and indie has beed recommended by the players most. We can also note the genres stertergy, RPG, Action, Racing and RPG have relatively high ratings from the critics
-- Worst recommended genres are sports, racing and casual and the worst critic rated genres are casual, early access and free to play
-- Looking at the data we can see action genre has overlap in best recomendations and crtics rating 
-- Looking at the data we can see casual genre has  overlap in worst recommendation and critic rating
-#### 10(b). Which genres do players choose to spend the most money ?
--Analysis shows the genres action has the most capital. This genre has the most number of owners with the highest game prices. Followed by adventure and stratergy genre. Racing genre and sports genre has the least amount of capital in it 
-- Analysis shows genres with least capital are casual, sports, early access, free to play and racing 
-- Also these genres of games fall in both the catergory of worst rated and recommended
-#### 10(c). Which genres has the changes in demand and discounts ?
--Genres with increase in demand. If the price is increase by the platform, we can assume the genre has a higher demand. Across all the genres we can see the mean price has reduced. But we can analyse by the rate of change 
-- We can see genres indie, nongame and adventure has the greatest negative mean price difference. They experience the greatest decline in demand over time and steam would most likely list these genres on discount 
-- We can see genres multiplayer, action, racing and sports has the least mean price difference. They hold the demand value over time and arent as subjected to discounting 
+- Although action genre games are played most and in high demand on steam engine but still high metacritic games do not get high recommendation count.
+
+### Genre and Popularity
+
+#### 10. Which genres do players prefer to play the most?
+- Analysis shows that genres action, adventure and indie has beed recommended by the players most. We can also note the genres strategy, RPG, Action, Racing and RPG have relatively high ratings from the critics. 
+- Worst recommended genres are sports, racing and casual and the worst critic rated genres are casual, early access and free to play. 
+- Looking at the data we can see action genre has overlap in best recomendations and crtics rating.
+- Looking at the data we can see casual genre has  overlap in worst recommendation and critic rating.
+
+#### 11. Which genres do players choose to spend the most money ?
+- Analysis shows the genres action has the most capital. This genre has the most number of owners with the highest game prices. Followed by adventure and stratergy genre. Racing genre and sports genre has the least amount of capital in it.
+- Analysis shows genres with least capital are casual, sports, early access, free to play and racing.
+- Also these genres of games fall in both the catergory of worst rated and recommended.
+
+#### 12. Which genres has the changes in demand and discounts ?
+- Genres with increase in demand. If the price is increase by the platform, we can assume the genre has a higher demand. Across all the genres we can see the mean price has reduced. But we can analyse by the rate of change.
+- We can see genres indie, nongame and adventure has the greatest negative mean price difference. They experience the greatest decline in demand over time and steam would most likely list these genres on discount.
+- We can see genres multiplayer, action, racing and sports has the least mean price difference. They hold the demand value over time and arent as subjected to discounting.
+
+### Results and Conclusions
+These conclusions provide valuable insights into the gaming industry, helping developers and stakeholders make informed decisions about platform support, game genre choices, and pricing strategies. However, it's important to note that the analysis is based on the provided dataset, and real-world gaming trends may vary. Further research and data analysis could provide more comprehensive insights.
 
 ## Data Sets
 
 - [IMDB Video Games Dataset](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games)
 - [Steam Game Data](https://data.world/craigkelly/steam-game-data)
-
-[1] [World Economic Forum - Gaming Industry Growth](https://www.weforum.org/agenda/2022/07/gaming-pandemic-lockdowns-pwc-growth/)
 
 ## Dependencies
 
@@ -137,3 +148,4 @@ Jude Silva
 
 ## References
 World Economic Forum - Gaming Industry Growth
+[1] [World Economic Forum - Gaming Industry Growth](https://www.weforum.org/agenda/2022/07/gaming-pandemic-lockdowns-pwc-growth/)
