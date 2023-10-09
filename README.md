@@ -147,5 +147,4 @@ Muhammad Kashif
 Jude Silva
 
 ## References
-World Economic Forum - Gaming Industry Growth
 [1] [World Economic Forum - Gaming Industry Growth](https://www.weforum.org/agenda/2022/07/gaming-pandemic-lockdowns-pwc-growth/)
