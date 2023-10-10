@@ -31,8 +31,6 @@ The goal of this project is to provide concrete data and analysis to assist game
 - Concluded that, on average, there is no significant difference in player counts between Windows, Mac, and Linux platforms.
 - Initial differences observed were influenced by outliers or limited data availability. This dataset cannot provide this information.
 
-![Distribution of Player Counts by Platform (Outliers Removed)] (https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig1.jpg)
-
 #### 2. Do games with broader platform support attract more players?
 - Analyzed mean rating, popularity, mean price, and PriceOwnersProduct.
 - Games supporting multiple platforms tend to have higher Metacritic ratings and popularity, attracting more players and better reviews.
