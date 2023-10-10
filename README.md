@@ -36,7 +36,7 @@ The goal of this project is to provide concrete data and analysis to assist game
 #### 2. Do games with broader platform support attract more players?
 - Analyzed mean rating, popularity, mean price, and PriceOwnersProduct.
 - Games supporting multiple platforms tend to have higher Metacritic ratings and popularity, attracting more players and better reviews.
-- Game pricing does not significantly vary based on the number of supported platforms. 
+- Game pricing does not significantly vary based on the number of supported platforms.
 
 #### 3. Is there a relationship between Screenshots, Early Access Status, and Demos and the number of players?
 - Analyzed scatterplots for screenshots vs. mean owners, early access vs. mean owners, and demos vs. owners.
@@ -44,11 +44,21 @@ The goal of this project is to provide concrete data and analysis to assist game
 - Slight difference in mean owners between early access and non-early access games, but not statistically significant.
 - Games with demos tend to have a higher mean number of owners, indicating a positive relationship.
 
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig3_1.jpg?raw=true)
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig3_2.jpg?raw=true)
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig3_3.jpg?raw=true)
+
 #### 4. Which platform has the highest game count on average?
 - Explored the correlation between the number of games available on each platform (Windows, Mac, Linux) and relevant metrics.
 - Windows is the most dominant gaming platform, with a significantly higher number of games available compared to Mac and Linux.
 - Games available on the Windows & Mac combination seem to have higher Metacritic ratings and recommendation counts, indicating a positive reception among users and critics.
 - The combination of all three platforms (Windows, Mac, and Linux) results in the highest mean recommendation count, suggesting that cross-platform availability may lead to increased user engagement and recommendations.
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig4a.jpg?raw=true)
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig4b.jpg?raw=true)
 
 ### Category and Trends Analysis 
 
@@ -56,9 +66,13 @@ The goal of this project is to provide concrete data and analysis to assist game
 - Analysis of games based on whether they are single-player or multi-player games shows a significant advantage for multi-player games in terms of mean number of players, mean number of owners, mean Metacritic rating, and mean number of recommendations on Steam.
 - This suggests that multi-player games tend to be more popular and successful.
 
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig5.jpg?raw=true)
+
 #### 6. Are there any apparent genre trends across the past 3 decades?
 - Analysis of the percentage of genres between 1985 and 2019 shows that while Action has been the dominant genre for decades, Adventure has been steadily rising in prominence, surpassing Action after 2015.
 - Also observed is that the percentages of Family and Sci-Fi games have been decreasing, while other genres have kept relatively steady levels. It is to be noted that this does not reflect a decrease in the number of Family or Sci-Fi games, only of their percentages relative to the total number of games per year. In fact, the number of games have been increasing per year across all genres.
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig6.jpg?raw=true)
 
 ### Games Released Month and Price Analysis
 
@@ -66,9 +80,15 @@ The goal of this project is to provide concrete data and analysis to assist game
 - From the provided data, it is found out that on steam gaming engine, 1548 games have been released in the month of "August". which could potentialy be due to some promotional season of "Back to School". 
 - However since we do not have any sales data, we can not exclusively point out towards the actual reason for more numbers of games being released in the Month of August.
 
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig7_5.jpg?raw=true)
+
 #### 8. Find the Games with positive increase in the intial and final price.
 - While trying to find the price change from initial price to final price change, there is not a single game with positive increase from inital price to final price in past three decades of provided Data.
 - Most games have no change in initial price and final price. Histogram shows skewed bars and mode is zero.
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig7_2a.jpg?raw=true)
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig7_2b.jpg?raw=true)
 
 ### Top Performer Games Analysis
 
@@ -91,15 +111,23 @@ From One sample t-test and Saphiro-wilk test, p_value was found. hypothesis resu
 - Looking at the data we can see action genre has overlap in best recomendations and crtics rating.
 - Looking at the data we can see casual genre has  overlap in worst recommendation and critic rating.
 
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig9_7a.jpg?raw=true)
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig9_7b.jpg?raw=true)
+
 #### 11. Which genres do players choose to spend the most money ?
 - Analysis shows the genres action has the most capital. This genre has the most number of owners with the highest game prices. Followed by adventure and stratergy genre. Racing genre and sports genre has the least amount of capital in it.
 - Analysis shows genres with least capital are casual, sports, early access, free to play and racing.
 - Also these genres of games fall in both the catergory of worst rated and recommended.
 
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig12.jpg?raw=true)
+
 #### 12. Which genres has the changes in demand and discounts ?
 - Genres with increase in demand. If the price is increase by the platform, we can assume the genre has a higher demand. Across all the genres we can see the mean price has reduced. But we can analyse by the rate of change.
 - We can see genres indie, nongame and adventure has the greatest negative mean price difference. They experience the greatest decline in demand over time and steam would most likely list these genres on discount.
 - We can see genres multiplayer, action, racing and sports has the least mean price difference. They hold the demand value over time and arent as subjected to discounting.
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig13.jpg?raw=true)
 
 ### Results and Conclusions
 These conclusions provide valuable insights into the gaming industry, helping developers and stakeholders make informed decisions about platform support, game genre choices, and pricing strategies. However, it's important to note that the analysis is based on the provided dataset, and real-world gaming trends may vary. Further research and data analysis could provide more comprehensive insights.
