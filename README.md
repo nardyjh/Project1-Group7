@@ -38,6 +38,10 @@ The goal of this project is to provide concrete data and analysis to assist game
 - Games supporting multiple platforms tend to have higher Metacritic ratings and popularity, attracting more players and better reviews.
 - Game pricing does not significantly vary based on the number of supported platforms.
 
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig2a.JPG?raw=true)
+
+![alt text](https://github.com/nardyjh/Project1-Group7/blob/main/Resources/Fig2b.JPG?raw=true)
+
 #### 3. Is there a relationship between Screenshots, Early Access Status, and Demos and the number of players?
 - Analyzed scatterplots for screenshots vs. mean owners, early access vs. mean owners, and demos vs. owners.
 - Weak correlation found between the number of screenshots and mean owners, suggesting other factors play a more significant role.
