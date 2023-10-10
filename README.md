@@ -29,7 +29,9 @@ The goal of this project is to provide concrete data and analysis to assist game
 #### 1. Which platform has the highest player count on average?
 - Explored the correlation between the number of games available on each platform and the mean player count.
 - Concluded that, on average, there is no significant difference in player counts between Windows, Mac, and Linux platforms.
-- Initial differences observed were influenced by outliers or limited data availability. This dataset cannot provide this information. 
+- Initial differences observed were influenced by outliers or limited data availability. This dataset cannot provide this information.
+
+![Distribution of Player Counts by Platform (Outliers Removed)] (/Resources/Fig1_1.jpg)
 
 #### 2. Do games with broader platform support attract more players?
 - Analyzed mean rating, popularity, mean price, and PriceOwnersProduct.
