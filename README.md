@@ -161,6 +161,7 @@ If you wish to run the analysis scripts in this project, follow these steps:
 
 Clone this repository to your local machine.
 Install the required dependencies (as mentioned in the "Dependencies" section).
+Unzip the "games-features" zipped folder, and copy the CSV file (games-features.csv) under /Resources.
 Run the Python scripts provided in the project directory to reproduce the analysis.
 
 ## Future Work
