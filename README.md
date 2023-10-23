@@ -1,4 +1,4 @@
-# Project1-Group7: Steam & IMDB Game Data Insights
+# Steam & IMDB Game Data Insights
 
 ## Project Summary
 
